@@ -1,4 +1,14 @@
+
 .text {
-    color: rgb(255, 113, 113);
-    font-size: 18px;
+    text-align: center; 
+    font-size: 16px; 
+    color: #FF0000; 
   }
+  
+  .container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100%; 
+  }
+  
